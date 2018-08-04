@@ -1,1 +1,1 @@
-# TestRepository
+# HappyTrip Maven Java

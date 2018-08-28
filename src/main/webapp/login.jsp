@@ -15,7 +15,7 @@
         <div id="ContentFrame" class="clearfix">
           <div class="Left" style="margin: 0px auto">
             <div class="col">
-  <h1>Sign in to Happytrip</h1>
+  <h1>Sign in to Happytrip Updated</h1>
     <c:if test="${param.login_error==1}">
 	  <div id="errors1" class="errors" style="display:block">
 			<div class="errorblock">
